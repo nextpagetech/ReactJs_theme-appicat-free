@@ -1,29 +1,29 @@
 # React Js apricot theme (Free Theme)
 
 
-## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/apricot_theme1)
 
 ### Home Screen
-<img src="https://github.com/nextpagetech/react_theme1/blob/master/home_screen.jpeg" alt='Home Screen' width='100%' height='100%' />
+<img src="https://github.com/nextpagetech/ReactJs_theme-apricot-free/blob/master/home_screen.jpeg" alt='Home Screen' width='100%' height='100%' />
 
 ### About Us Screen
 
-![Alt text](https://github.com/nextpagetech/react_theme1/blob/master/about_screen.jpeg "About Screen")
+![Alt text](https://github.com/nextpagetech/ReactJs_theme-apricot-free/blob/master/about_screen.jpeg "About Screen")
 
 ### Features Screen
 
-![Alt text](https://github.com/nextpagetech/react_theme1/blob/master/features_screen.jpeg "Features Screen")
+![Alt text](https://github.com/nextpagetech/ReactJs_theme-apricot-free/blob/master/features_screen.jpeg "Features Screen")
 
 ### Products Screen
 
-![Alt text](https://github.com/nextpagetech/react_theme1/blob/master/products_screen.jpeg "About Screen")
+![Alt text](https://github.com/nextpagetech/ReactJs_theme-apricot-free/blob/master/pricing_screen.jpeg "About Screen")
 
 
-## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/blueberry_theme_1)
+## [See Demo and Download source code ( Completely free theme )](https://nextpagetechnologies.com/react_themes/apricot_theme1)
 
 # USAGE 
 
-Download  [(click here)](https://nextpagetechnologies.com/react_themes/blueberry_theme_1) and uncompress the theme package archive in your desired folder location. 
+Download  [(click here)](https://nextpagetechnologies.com/react_themes/apricot_theme1) and uncompress the theme package archive in your desired folder location. 
 
 ## Installation 
 
