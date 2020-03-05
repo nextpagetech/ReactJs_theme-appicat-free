@@ -14,7 +14,7 @@
 
 ![Alt text](https://github.com/nextpagetech/ReactJs_theme-apricot-free/blob/master/features_screen.jpeg "Features Screen")
 
-### Products Screen
+### Pricing Screen
 
 ![Alt text](https://github.com/nextpagetech/ReactJs_theme-apricot-free/blob/master/pricing_screen.jpeg "About Screen")
 
